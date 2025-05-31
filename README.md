@@ -20,7 +20,7 @@ Developer with experience across distinct areas, passionate about research, deve
   Personal finance management system with OFX import and auto-categorization.  
   `FastAPI · Vue · Pinia · SQLAlchemy`
 
-- **Electoral Analysis System with Geolocation**  
+- **[Electoral Analysis System with Geolocation](https://github.com/aloisiovilasboas/eleicao-por-territorio/)**  
   Public data tool for mapping votes with automatic geolocation and filtering.  
   `Python · Pandas · Matplotlib · Google Maps API`
 
