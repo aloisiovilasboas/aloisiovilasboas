@@ -43,7 +43,7 @@ Developer with experience across distinct areas, passionate about research, deve
 **Languages & Frameworks:** Python, JavaScript, Vue.js, FastAPI, Node.js  
 **Data & Visualization:** Pandas, NumPy, Matplotlib, Jupyter, Streamlit  
 **Systems & APIs:** Firebase, Firestore, REST, Electron, Vite, Pydantic  
-**Other:** Git, Linux, rapid prototyping, basic automation and sensor integration
+**Other:** Git, Linux, rapid prototyping
 
 ---
 
