@@ -42,7 +42,8 @@ Developer with experience across distinct areas, passionate about research, deve
 
 **Languages & Frameworks:** Python, JavaScript, Vue.js, FastAPI, Node.js  
 **Data & Visualization:** Pandas, NumPy, Matplotlib, Jupyter, Streamlit  
-**Systems & APIs:** Firebase, Firestore, REST, Electron, Vite, Pydantic
+**Systems & APIs:** Firebase, Firestore, REST, Electron, Vite, Pydantic  
+
 **Game Development:** Unity, C#, FL Studio
 **Other:** Git, Linux, rapid prototyping
 
