@@ -1,6 +1,6 @@
 # 👋 Aloísio Vilas-Boas
 
-Mestre em Ciência da Computação pela Unicamp, com foco em Teoria dos Grafos. Desenvolvedor de software com experiência em sistemas de dados, visualização interativa, automação agrícola e finanças pessoais. Atualmente, reestruturando minha trajetória profissional com foco em ciência de dados aplicada a contextos sociais, financeiros e agrícolas.
+Mestre em Ciência da Computação pela Unicamp, com foco em Teoria dos Grafos. Desenvolvedor de software com experiência em sistemas de dados, visualização interativa, automação agrícola e finanças pessoais.
 
 ## 🚀 Projetos em Destaque
 
