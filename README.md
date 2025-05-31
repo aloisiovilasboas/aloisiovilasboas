@@ -1,38 +1,54 @@
 # 👋 Aloísio Vilas-Boas
 
-Mestre em Ciência da Computação pela Unicamp, com foco em Teoria dos Grafos. Desenvolvedor de software com experiência em sistemas de dados, visualização interativa, automação agrícola e finanças pessoais.
+Developer with experience across distinct areas, passionate about research, development, and games. I enjoy building useful, creative, and data-driven tools — from finance and agriculture to public data visualization and experimental games.
 
-## 🚀 Projetos em Destaque
+---
+
+## 🚀 Featured Projects
 
 - **[Smart-Grow](https://github.com/aloisiovilasboas/smart-grow-showcase)**  
-  Plataforma de gestão para agricultura urbana com previsão e automação.  
+  Web platform for managing and automating urban agriculture production.  
   `Vue · Firebase · FastAPI · Firestore`
 
-- **Dinheiro Fácil (em desenvolvimento)**  
-  Sistema pessoal para gestão de finanças baseado em leitura de extratos e categorização automática.  
-  `FastAPI · Pinia · Vue · SQLAlchemy`
+- **Dinheiro Fácil** *(in progress)*  
+  Personal finance management system with OFX import and auto-categorization.  
+  `FastAPI · Vue · Pinia · SQLAlchemy`
 
-- **Sistema de Análise Eleitoral com Geolocalização**  
-  Visualização territorial de votos com dados públicos e mapas automatizados.  
+- **Electoral Analysis System with Geolocation**  
+  Public data tool for mapping votes with automatic geolocation and filtering.  
   `Python · Pandas · Matplotlib · Google Maps API`
 
-- **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase) **  
-  Sistema de ponto de venda para restaurante com interface dual (cozinha e caixa).  
+- **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase)**  
+  Lightweight POS system for restaurants, with dual interfaces (kitchen/cashier).  
   `Vue · Electron · IndexedDB`
 
-## 🧰 Habilidades Técnicas
+- **[Astrocornius](https://99lab.itch.io/astrocornius)**  
+  Game developed in a game jam, featuring original programming, music and sound design.  
+  `Unity · C# · FL Studio`
 
-**Linguagens & Frameworks:** Python, JavaScript, Vue.js, FastAPI, Node.js  
-**Análise de Dados:** Pandas, NumPy, Matplotlib, Streamlit  
-**Dev & APIs:** Firebase, Firestore, REST, Pydantic, Electron, Vite  
+---
 
-## 🎯 Interesses
+## 🧰 Technical Skills
 
-- Mineração de dados complexos em contextos sociais, financeiros e agrícolas  
-- Visualização de dados interativa e transparente  
-- Aplicações práticas de ciência de dados em políticas públicas
+**Languages & Frameworks:** Python, JavaScript, Vue.js, FastAPI, Node.js  
+**Data & Visualization:** Pandas, NumPy, Matplotlib, Jupyter, Streamlit  
+**Systems & APIs:** Firebase, Firestore, REST, Electron, Vite, Pydantic  
+**Other:** Git, Linux, rapid prototyping, basic automation and sensor integration
 
-## 📫 Contato
+---
 
-- Email: aloisiovilasboas@gmail.com  
-- [Currículo Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4250514D4)
+## 🎯 Interests
+
+- Applied data science in finance, agriculture and social/public domains  
+- Interactive and meaningful data visualization  
+- Creative and experimental software development  
+- Real-world tools and agile prototyping  
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: [aloisiovilasboas@gmail.com](mailto:aloisiovilasboas@gmail.com)  
+- 📄 [Lattes CV](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4250514D4)
+
+---
