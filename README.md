@@ -1,6 +1,12 @@
-# 👋 Aloísio Vilas-Boas
+# 👋 Aloísio de Menezes Vilas-Bôas
 
 Developer with experience across distinct areas, passionate about research, development, and games. I enjoy building useful, creative, and data-driven tools — from finance and agriculture to public data visualization and experimental games.
+
+## 📫 Contact
+
+- ✉️ Email: [aloisiovilasboas@gmail.com](mailto:aloisiovilasboas@gmail.com)  
+- 📄 [Lattes CV](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4250514D4)
+
 
 ---
 
@@ -46,9 +52,5 @@ Developer with experience across distinct areas, passionate about research, deve
 
 ---
 
-## 📫 Contact
-
-- ✉️ Email: [aloisiovilasboas@gmail.com](mailto:aloisiovilasboas@gmail.com)  
-- 📄 [Lattes CV](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4250514D4)
 
 ---
