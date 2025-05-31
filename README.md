@@ -16,7 +16,7 @@ Developer with experience across distinct areas, passionate about research, deve
   Web platform for managing and automating urban agriculture production.  
   `Vue · Firebase · FastAPI · Firestore`
 
-- **Dinheiro Fácil** *(in progress)*  
+- **[Dinheiro Fácil](https://github.com/aloisiovilasboas/financeiro-electron)** *(in progress)*  
   Personal finance management system with OFX import and auto-categorization.  
   `FastAPI · Vue · Pinia · SQLAlchemy`
 
