@@ -4,7 +4,7 @@ Mestre em Ciência da Computação pela Unicamp, com foco em Teoria dos Grafos. 
 
 ## 🚀 Projetos em Destaque
 
-- **[Smart-Grow](https://github.com/aloisiovilasboas/smart-grow)**  
+- **[Smart-Grow](https://github.com/aloisiovilasboas/smart-grow-showcase)**  
   Plataforma de gestão para agricultura urbana com previsão e automação.  
   `Vue · Firebase · FastAPI · Firestore`
 
