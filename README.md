@@ -26,7 +26,7 @@ Developer with experience across distinct areas, passionate about research, deve
 
 - **[World Cup Pools 2022](https://github.com/aloisiovilasboas/bolao2022-vite-vue-firebase)**
   Online betting platforms for friends and family during the FIFA World Cup, featuring group management and result tracking.  
-  `Vue · Firebase
+  `Vue · Firebase`
 
 - **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase)**  
   Lightweight POS system for restaurants, with dual interfaces (kitchen/cashier).  
