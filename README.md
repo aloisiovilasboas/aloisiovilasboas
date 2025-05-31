@@ -16,7 +16,7 @@ Mestre em Ciência da Computação pela Unicamp, com foco em Teoria dos Grafos. 
   Visualização territorial de votos com dados públicos e mapas automatizados.  
   `Python · Pandas · Matplotlib · Google Maps API`
 
-- **Caixupets**  
+- **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase) **  
   Sistema de ponto de venda para restaurante com interface dual (cozinha e caixa).  
   `Vue · Electron · IndexedDB`
 
