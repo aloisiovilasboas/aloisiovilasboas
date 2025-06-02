@@ -15,7 +15,6 @@ Developer with experience across distinct areas, passionate about research, deve
   *Focus: Graph Theory (edge coloring of split graphs)* — 2013–2015
 
 - **B.Sc. in Computer Science**, Universidade Federal de Sergipe (UFS)  
-  *Focus: Artificial Intelligence (undergraduate research)* — 2005–2009
 
 ## 🚀 Featured Projects
 
