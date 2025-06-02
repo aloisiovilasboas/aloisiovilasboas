@@ -60,7 +60,8 @@ Developer with experience across distinct areas, passionate about research, deve
 - Applied data science in finance, agriculture and social/public domains  
 - Interactive and meaningful data visualization  
 - Creative and experimental software development  
-- Real-world tools and agile prototyping  
+- Real-world tools and agile prototyping
+- Game development and design 
 
 ---
 
