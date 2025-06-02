@@ -16,6 +16,10 @@ Developer with experience across distinct areas, passionate about research, deve
   Web platform for managing and automating urban agriculture production.  
   `Vue · Firebase · FastAPI · Firestore`
 
+- **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase)**  
+  Lightweight POS system for restaurants, with dual interfaces (kitchen/cashier).  
+  `Vue · Electron · IndexedDB`
+
 - **[Dinheiro Fácil](https://github.com/aloisiovilasboas/financeiro-electron)** *(in progress)*  
   Personal finance management system with OFX import and auto-categorization.  
   `FastAPI · Vue · Pinia · SQLAlchemy`
@@ -28,9 +32,6 @@ Developer with experience across distinct areas, passionate about research, deve
   Online platform for friends and family competition during the FIFA World Cup, featuring group management and result tracking.  
   `Vue · Firebase`
 
-- **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase)**  
-  Lightweight POS system for restaurants, with dual interfaces (kitchen/cashier).  
-  `Vue · Electron · IndexedDB`
 
 - **[Astrocornius](https://99lab.itch.io/astrocornius)**  
   Game developed in a game jam, featuring original programming, music and sound design.  
