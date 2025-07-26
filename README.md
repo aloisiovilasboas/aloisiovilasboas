@@ -20,7 +20,7 @@ Developer with experience across distinct areas, passionate about research, deve
 
 - **[Smart-Grow](https://github.com/aloisiovilasboas/smart-grow-showcase)**  
   Web platform for managing and automating urban agriculture production.  
-  `Vue · Firebase · FastAPI · Firestore`
+  `Vue · Firebase  · Firestore`
 
 - **[Caixupets](https://github.com/aloisiovilasboas/caixupets-showcase)**  
   Lightweight POS system for restaurants, with dual interfaces (kitchen/cashier).  
